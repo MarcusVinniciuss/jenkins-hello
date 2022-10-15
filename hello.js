@@ -1,3 +1,3 @@
-let say = "Hello, world!";
+let say = "Trigger jenkins test";
 
 console.log(say);
